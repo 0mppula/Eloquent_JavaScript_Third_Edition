@@ -8,8 +8,8 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 
 ### Chapter 2: Program Structure
 
--   [ ] 2.1. [Looping a Triangle](#)
--   [ ] 2.2. [FizzBuzz](#)
--   [ ] 2.3. [Chessboard](#)
+-   [x] 2.1. [Looping a Triangle](./2_program_structure/triangle.js)
+-   [x] 2.2. [FizzBuzz](./2_program_structure/fizz_buzz.js)
+-   [x] 2.3. [Chessboard](./2_program_structure/chessboard.js)
 
 [1]: https://eloquentjavascript.net/
