@@ -1,4 +1,4 @@
-### Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming
+# Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming
 
 Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: Marjin Haverbeke.
 
