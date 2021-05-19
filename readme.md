@@ -12,4 +12,10 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 -   [x] 2.2. [FizzBuzz](./2_program_structure/fizz_buzz.js)
 -   [x] 2.3. [Chessboard](./2_program_structure/chessboard.js)
 
+### Chapter 3: Functions
+
+-   [x] 3.1. [Minimum](./3_functions/minimum.js)
+-   [x] 3.2. [Recursion](./3_functions/recursion.js)
+-   [x] 3.3. [Bean Counting](./3_functions/bean_counting.js)
+
 [1]: https://eloquentjavascript.net/
