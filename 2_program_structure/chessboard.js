@@ -9,5 +9,4 @@ const returnChessboard = (width = 8, height = 8) => {
 	return chessboard.join('');
 };
 
-console.log(returnChessboard(16, 8));
-console.log(returnChessboard());
+console.log(returnChessboard(10, 10));
