@@ -18,4 +18,11 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 -   [x] 3.2. [Recursion](./3_functions/recursion.js)
 -   [x] 3.3. [Bean Counting](./3_functions/bean_counting.js)
 
+### Chapter 4: Data Structures
+
+-   [ ] 4.1. [The Sum of a Range]()
+-   [ ] 4.2. [Reversing an Array]()
+-   [ ] 4.3. [A List]()
+-   [ ] 4.3. [Deep Comparison]()
+
 [1]: https://eloquentjavascript.net/
