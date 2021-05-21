@@ -20,9 +20,9 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 
 ### Chapter 4: Data Structures
 
--   [ ] 4.1. [The Sum of a Range](./4_data_structures/range_sum.js)
--   [ ] 4.2. [Reversing an Array](./4_data_structures/reverse_array.js)
--   [ ] 4.3. [A List](./4_data_structures/a_list.js)
--   [ ] 4.3. [Deep Comparison](./4_data_structures/deep_comparison.js)
+-   [x] 4.1. [The Sum of a Range](./4_data_structures/range_sum.js)
+-   [x] 4.2. [Reversing an Array](./4_data_structures/reverse_array.js)
+-   [x] 4.3. [A List](./4_data_structures/a_list.js)
+-   [x] 4.3. [Deep Comparison](./4_data_structures/deep_comparison.js)
 
 [1]: https://eloquentjavascript.net/
