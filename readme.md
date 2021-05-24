@@ -23,6 +23,13 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 -   [x] 4.1. [The Sum of a Range](./4_data_structures/range_sum.js)
 -   [x] 4.2. [Reversing an Array](./4_data_structures/reverse_array.js)
 -   [x] 4.3. [A List](./4_data_structures/a_list.js)
--   [x] 4.3. [Deep Comparison](./4_data_structures/deep_comparison.js)
+-   [x] 4.4. [Deep Comparison](./4_data_structures/deep_comparison.js)
+
+### Chapter 5: Higher-Order Functions
+
+-   [x] 5.1. [Flattening](./5_higher-order_functions/flattening.js)
+-   [x] 5.2. [Your Own Loop](./5_higher-order_functions/your_own_loop.js)
+-   [x] 5.3. [Everything](./5_higher-order_functions/everything.js)
+-   [x] 5.4. [Dominant Writing Direction](./5_higher-order_functions/dominant_writing_direction.js)
 
 [1]: https://eloquentjavascript.net/
