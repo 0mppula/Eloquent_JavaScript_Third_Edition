@@ -32,4 +32,12 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 -   [x] 5.3. [Everything](./5_higher-order_functions/everything.js)
 -   [x] 5.4. [Dominant Writing Direction](./5_higher-order_functions/dominant_writing_direction.js)
 
+### Chapter 6: The Secret Life Of Objects
+
+-   [ ] 6.1 [A Vector Type](./6_secret_life_of_objects/)
+-   [ ] 6.2 [Groups](./6_secret_life_of_objects/)
+-   [ ] 6.3 [Iterable Groups](./6_secret_life_of_objects/)
+-   [ ] 6.4 [Borrowing a Method](./6_secret_life_of_objects/)
+
+
 [1]: https://eloquentjavascript.net/
