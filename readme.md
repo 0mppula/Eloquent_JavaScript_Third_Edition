@@ -34,10 +34,9 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 
 ### Chapter 6: The Secret Life Of Objects
 
--   [ ] 6.1 [A Vector Type](./6_secret_life_of_objects/)
--   [ ] 6.2 [Groups](./6_secret_life_of_objects/)
--   [ ] 6.3 [Iterable Groups](./6_secret_life_of_objects/)
--   [ ] 6.4 [Borrowing a Method](./6_secret_life_of_objects/)
-
+-   [ ] 6.1 [A Vector Type](./6_secret_life_of_objects/vector.js)
+-   [ ] 6.2 [Groups](./6_secret_life_of_objects/groups.js)
+-   [ ] 6.3 [Iterable Groups](./6_secret_life_of_objects/iterable_groups.js)
+-   [ ] 6.4 [Borrowing a Method](./6_secret_life_of_objects/borrowing_method.js)
 
 [1]: https://eloquentjavascript.net/
