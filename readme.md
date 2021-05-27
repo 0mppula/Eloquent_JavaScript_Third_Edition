@@ -41,7 +41,7 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 
 ### Chapter 7: PROJECT: A ROBOT
 
--   [ ] 7.1 [Measuring a Robot](./7_a_robot/)
+-   [ ] 7.1 [Measuring a Robot](./7_a_robot/measuring_a_robot.js)
 -   [ ] 7.2 [Robot Efficiency](./7_a_robot/)
 -   [ ] 7.3 [Persistent Group](./7_a_robot/)
 
