@@ -39,4 +39,10 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 -   [x] 6.3 [Iterable Groups](./6_secret_life_of_objects/iterable_groups.js)
 -   [x] 6.4 [Borrowing a Method](./6_secret_life_of_objects/borrowing_method.js)
 
+### Chapter 7 PROJECT: A ROBOT
+
+-   [ ] 7.1 [Measuring a Robot](./7_a_robot/)
+-   [ ] 7.2 [Robot Efficiency](./7_a_robot/)
+-   [ ] 7.3 [Persistent Group](./7_a_robot/)
+
 [1]: https://eloquentjavascript.net/
