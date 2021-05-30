@@ -45,4 +45,9 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 -   [x] 7.2 [Robot Efficiency](./7_a_robot/robot_efficiency.js)
 -   [x] 7.3 [Persistent Group](./7_a_robot/persistent_group.js)
 
+### Chapter 8: Bugs and Errors
+
+-   [ ] 8.1 [Retry](./8_bugs_and_errors/)
+-   [ ] 8.2 [The Locked Box](./8_bugs_and_errors/)
+
 [1]: https://eloquentjavascript.net/
