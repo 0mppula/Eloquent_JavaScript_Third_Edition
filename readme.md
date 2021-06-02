@@ -47,7 +47,7 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 
 ### Chapter 8: Bugs and Errors
 
--   [ ] 8.1 [Retry](./8_bugs_and_errors/)
--   [ ] 8.2 [The Locked Box](./8_bugs_and_errors/)
+-   [x] 8.1 [Retry](./8_bugs_and_errors/retry.js)
+-   [x] 8.2 [The Locked Box](./8_bugs_and_errors/locked_box.js)
 
 [1]: https://eloquentjavascript.net/
