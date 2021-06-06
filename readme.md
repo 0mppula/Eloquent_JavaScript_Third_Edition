@@ -50,4 +50,10 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 -   [x] 8.1 [Retry](./8_bugs_and_errors/retry.js)
 -   [x] 8.2 [The Locked Box](./8_bugs_and_errors/locked_box.js)
 
+### Chapter 9: Regular Expressions
+
+-   [ ] 9.1 [Regexp Golf](./9_regular_expressions/)
+-   [ ] 9.2 [Quoting Style](./9_regular_expressions/)
+-   [ ] 9.3 [Numbers Again](./9_regular_expressions/)
+
 [1]: https://eloquentjavascript.net/
