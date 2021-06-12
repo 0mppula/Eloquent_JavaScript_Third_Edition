@@ -52,8 +52,8 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 
 ### Chapter 9: Regular Expressions
 
--   [ ] 9.1 [Regexp Golf](./9_regular_expressions/)
--   [ ] 9.2 [Quoting Style](./9_regular_expressions/)
--   [ ] 9.3 [Numbers Again](./9_regular_expressions/)
+-   [ ] 9.1 [Regexp Golf](./9_regular_expressions/regexp_golf.js)
+-   [ ] 9.2 [Quoting Style](./9_regular_expressions/quoting_style.js)
+-   [ ] 9.3 [Numbers Again](./9_regular_expressions/numbers_again.js)
 
 [1]: https://eloquentjavascript.net/
