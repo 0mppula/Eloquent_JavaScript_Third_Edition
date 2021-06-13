@@ -4,33 +4,33 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 
 ### Chapter 1: Values, Types, and Operators
 
--   [x] 1.1. No Exercises in this chapter
+-   [x] 1.1 No Exercises in this chapter
 
 ### Chapter 2: Program Structure
 
--   [x] 2.1. [Looping a Triangle](./2_program_structure/triangle.js)
--   [x] 2.2. [FizzBuzz](./2_program_structure/fizz_buzz.js)
--   [x] 2.3. [Chessboard](./2_program_structure/chessboard.js)
+-   [x] 2.1 [Looping a Triangle](./2_program_structure/triangle.js)
+-   [x] 2.2 [FizzBuzz](./2_program_structure/fizz_buzz.js)
+-   [x] 2.3 [Chessboard](./2_program_structure/chessboard.js)
 
 ### Chapter 3: Functions
 
--   [x] 3.1. [Minimum](./3_functions/minimum.js)
--   [x] 3.2. [Recursion](./3_functions/recursion.js)
--   [x] 3.3. [Bean Counting](./3_functions/bean_counting.js)
+-   [x] 3.1 [Minimum](./3_functions/minimum.js)
+-   [x] 3.2 [Recursion](./3_functions/recursion.js)
+-   [x] 3.3 [Bean Counting](./3_functions/bean_counting.js)
 
 ### Chapter 4: Data Structures
 
--   [x] 4.1. [The Sum of a Range](./4_data_structures/range_sum.js)
--   [x] 4.2. [Reversing an Array](./4_data_structures/reverse_array.js)
--   [x] 4.3. [A List](./4_data_structures/a_list.js)
--   [x] 4.4. [Deep Comparison](./4_data_structures/deep_comparison.js)
+-   [x] 4.1 [The Sum of a Range](./4_data_structures/range_sum.js)
+-   [x] 4.2 [Reversing an Array](./4_data_structures/reverse_array.js)
+-   [x] 4.3 [A List](./4_data_structures/a_list.js)
+-   [x] 4.4 [Deep Comparison](./4_data_structures/deep_comparison.js)
 
 ### Chapter 5: Higher-Order Functions
 
--   [x] 5.1. [Flattening](./5_higher-order_functions/flattening.js)
--   [x] 5.2. [Your Own Loop](./5_higher-order_functions/your_own_loop.js)
--   [x] 5.3. [Everything](./5_higher-order_functions/everything.js)
--   [x] 5.4. [Dominant Writing Direction](./5_higher-order_functions/dominant_writing_direction.js)
+-   [x] 5.1 [Flattening](./5_higher-order_functions/flattening.js)
+-   [x] 5.2 [Your Own Loop](./5_higher-order_functions/your_own_loop.js)
+-   [x] 5.3 [Everything](./5_higher-order_functions/everything.js)
+-   [x] 5.4 [Dominant Writing Direction](./5_higher-order_functions/dominant_writing_direction.js)
 
 ### Chapter 6: The Secret Life Of Objects
 
