@@ -56,4 +56,10 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 -   [x] 9.2 [Quoting Style](./9_regular_expressions/quoting_style.js)
 -   [x] 9.3 [Numbers Again](./9_regular_expressions/numbers_again.js)
 
+### Chapter 10: Modules
+
+-   [ ] 10.1 [A Modular Robot](./10_modules/)
+-   [ ] 10.2 [Roads Module](./10_modules/)
+-   [ ] 10.3 [Circular Dependencies](./10_modules/)
+
 [1]: https://eloquentjavascript.net/
