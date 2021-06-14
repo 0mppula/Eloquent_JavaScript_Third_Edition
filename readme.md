@@ -58,8 +58,6 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 
 ### Chapter 10: Modules
 
--   [ ] 10.1 [A Modular Robot](./10_modules/)
--   [ ] 10.2 [Roads Module](./10_modules/)
--   [ ] 10.3 [Circular Dependencies](./10_modules/)
+-   [x] 10.2 [Roads Module](./10_modules/roads_module.js)
 
 [1]: https://eloquentjavascript.net/
