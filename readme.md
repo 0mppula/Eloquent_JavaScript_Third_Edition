@@ -60,4 +60,9 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 
 -   [x] 10.2 [Roads Module](./10_modules/roads_module.js)
 
+### Chapter 11: Asynchronous Programming
+
+-   [ ] 11.1 [Tracking the Scalpel](./11_asynchronous_programming/)
+-   [ ] 11.2 [Building Promise.all](./11_asynchronous_programming/)
+
 [1]: https://eloquentjavascript.net/
