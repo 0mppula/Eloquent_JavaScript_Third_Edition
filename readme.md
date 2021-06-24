@@ -32,14 +32,14 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 -   [x] 5.3 [Everything](./5_higher-order_functions/everything.js)
 -   [x] 5.4 [Dominant Writing Direction](./5_higher-order_functions/dominant_writing_direction.js)
 
-### Chapter 6: The Secret Life Of Objects
+### Chapter 6: The Secret Life of Objects
 
 -   [x] 6.1 [A Vector Type](./6_secret_life_of_objects/vector.js)
 -   [x] 6.2 [Groups](./6_secret_life_of_objects/groups.js)
 -   [x] 6.3 [Iterable Groups](./6_secret_life_of_objects/iterable_groups.js)
 -   [x] 6.4 [Borrowing a Method](./6_secret_life_of_objects/borrowing_method.js)
 
-### Chapter 7: PROJECT: A ROBOT
+### Chapter 7: Project: A Robot
 
 -   [x] 7.1 [Measuring a Robot](./7_a_robot/measuring_a_robot.js)
 -   [x] 7.2 [Robot Efficiency](./7_a_robot/robot_efficiency.js)
