@@ -62,7 +62,7 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 
 ### Chapter 11: Asynchronous Programming
 
--   [ ] 11.1 [Tracking the Scalpel](./11_asynchronous_programming/)
--   [ ] 11.2 [Building Promise.all](./11_asynchronous_programming/)
+-   [x] 11.1 [Tracking the Scalpel](./11_asynchronous_programming/tracking_the_scalpel.js)
+-   [x] 11.2 [Building Promise.all](./11_asynchronous_programming/building_promise.all.js)
 
 [1]: https://eloquentjavascript.net/
