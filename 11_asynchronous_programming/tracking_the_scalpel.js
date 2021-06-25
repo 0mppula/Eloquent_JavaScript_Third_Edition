@@ -18,4 +18,6 @@ function locateScalpel2(nest) {
 }
 
 locateScalpel(bigOak).then(console.log);
+// → Butcher's Shop
 locateScalpel2(bigOak).then(console.log);
+// → Butcher's Shop
