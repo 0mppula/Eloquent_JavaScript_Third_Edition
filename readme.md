@@ -65,4 +65,11 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 -   [x] 11.1 [Tracking the Scalpel](./11_asynchronous_programming/tracking_the_scalpel.js)
 -   [x] 11.2 [Building Promise.all](./11_asynchronous_programming/building_promise.all.js)
 
-[1]: https://eloquentjavascript.net/
+### Chapter 12: Project: A Programming Language
+
+-   [ ] 12.1 [Arrays](./12_a_programming_language/)
+-   [ ] 12.2 [Closure](./12_a_programming_language/)
+-   [ ] 12.3 [Comments](./12_a_programming_language/)
+-   [ ] 12.4 [Fixing Scope](./12_a_programming_language/)
+
+    [1]: https://eloquentjavascript.net/
