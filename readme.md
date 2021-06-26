@@ -67,9 +67,8 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 
 ### Chapter 12: Project: A Programming Language
 
--   [ ] 12.1 [Arrays](./12_a_programming_language/)
--   [ ] 12.2 [Closure](./12_a_programming_language/)
--   [ ] 12.3 [Comments](./12_a_programming_language/)
--   [ ] 12.4 [Fixing Scope](./12_a_programming_language/)
+-   [x] 12.1 [Arrays](./12_a_programming_language/arrays.js)
+-   [x] 12.3 [Comments](./12_a_programming_language/comments.js)
+-   [x] 12.4 [Fixing Scope](./12_a_programming_language/fixing_scope.js)
 
     [1]: https://eloquentjavascript.net/
