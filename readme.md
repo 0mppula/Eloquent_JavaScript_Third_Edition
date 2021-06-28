@@ -2,6 +2,8 @@
 
 Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: Marijn Haverbeke.
 
+## Part 1: Language
+
 ### Chapter 1: Values, Types, and Operators
 
 -   [x] 1.1 No Exercises in this chapter
@@ -71,4 +73,16 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 -   [x] 12.3 [Comments](./12_a_programming_language/comments.js)
 -   [x] 12.4 [Fixing Scope](./12_a_programming_language/fixing_scope.js)
 
-    [1]: https://eloquentjavascript.net/
+## Part 2: Browser
+
+### Chapter 13: JavaScript and the Browser
+
+-   [x] 13.1 No Exercises in this chapter
+
+### Chapter 14: The Document Object Model
+
+-   [x] 14.1 Build a Table
+-   [x] 14.2 Elements by Tag Name
+-   [x] 14.3 The Cat's Hat
+
+[1]: https://eloquentjavascript.net/
