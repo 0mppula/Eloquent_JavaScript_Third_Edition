@@ -81,8 +81,8 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 
 ### Chapter 14: The Document Object Model
 
--   [x] 14.1 Build a Table [Build a Table](./14_the_document_object_model/build_a_table/)
--   [x] 14.2 Elements by Tag Name [Elements by Tag Name](./14_the_document_object_model/elements_by_tag_name/)
--   [x] 14.3 The Cat's Hat [The Cat's Hat](./14_the_document_object_model/the_cats_hat/)
+-   [x] 14.1 [Build a Table](./14_the_document_object_model/build_a_table/)
+-   [x] 14.2 [Elements by Tag Name](./14_the_document_object_model/elements_by_tag_name/)
+-   [x] 14.3 [The Cat's Hat](./14_the_document_object_model/the_cats_hat/)
 
 [1]: https://eloquentjavascript.net/
