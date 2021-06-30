@@ -91,4 +91,10 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 -   [x] 15.2 [Mouse Trail](./15_handling_events/mouse_trail/)
 -   [x] 15.3 [Tabs](./15_handling_events/tabs/)
 
+### Chapter 16: Project: A Platform Game
+
+-   [] 16.1 [Game Over](./16_a_platform_game/)
+-   [] 16.2 [Pausing the Game](./16_a_platform_game/)
+-   [] 16.3 [A Monster](./16_a_platform_game/)
+
 [1]: https://eloquentjavascript.net/
