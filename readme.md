@@ -97,4 +97,10 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 -   [x] 16.2 [Pausing the Game](./16_a_platform_game/)
 -   [x] 16.3 [A Monster](./16_a_platform_game/)
 
+### Chapter 17: Drawing on Canvas
+
+-   [x] 17.1 [ ](./17_drawing_on_canvas/)
+-   [x] 17.2 [ ](./17_drawing_on_canvas/)
+-   [x] 17.3 [ ](./17_drawing_on_canvas/)
+
 [1]: https://eloquentjavascript.net/
