@@ -99,8 +99,9 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 
 ### Chapter 17: Drawing on Canvas
 
--   [x] 17.1 [ ](./17_drawing_on_canvas/)
--   [x] 17.2 [ ](./17_drawing_on_canvas/)
--   [x] 17.3 [ ](./17_drawing_on_canvas/)
+-   [x] 17.1 [Shapes](./17_drawing_on_canvas/)
+-   [x] 17.2 [The Pie Chart](./17_drawing_on_canvas/)
+-   [x] 17.3 [A Bouncing Ball](./17_drawing_on_canvas/)
+-   [x] 17.4 [Precomputed Mirroring](./17_drawing_on_canvas/)
 
 [1]: https://eloquentjavascript.net/
