@@ -105,8 +105,8 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 
 ### Chapter 18: HTTP and Forms
 
--   [ ] 18.1 [The Protocol](./18_http_and_forms/)
--   [ ] 18.2 [Browsers and HTTP](./18_http_and_forms/)
--   [ ] 18.3 [Fetch](./18_http_and_forms/)
+-   [x] 18.1 [Content Negotiation](./18_http_and_forms/content_negotiation/)
+-   [x] 18.2 [A JavaScript Workbench](./18_http_and_forms/a_javascript_workbench/)
+-   [x] 18.3 [Conway’s Game of Life](./18_http_and_forms/conways_game_of_life/)
 
 [1]: https://eloquentjavascript.net/
