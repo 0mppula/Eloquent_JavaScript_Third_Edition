@@ -111,9 +111,9 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 
 ### Chapter 19: A Pixel Art Editor
 
--   [ ] 19.1 [Keyboard Bindings](./19_a_pixel_art_editor/)
--   [ ] 19.2 [Efficient Drawing](./19_a_pixel_art_editor/)
--   [ ] 19.3 [Circles](./19_a_pixel_art_editor/)
--   [ ] 19.4 [Proper Lines](./19_a_pixel_art_editor/)
+-   [x] 19.1 [Keyboard Bindings](./19_a_pixel_art_editor/)
+-   [x] 19.2 [Efficient Drawing](./19_a_pixel_art_editor/)
+-   [x] 19.3 [Circles](./19_a_pixel_art_editor/)
+-   [x] 19.4 [Proper Lines](./19_a_pixel_art_editor/)
 
 [1]: https://eloquentjavascript.net/
