@@ -116,4 +116,12 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 -   [x] 19.3 [Circles](./19_a_pixel_art_editor/)
 -   [x] 19.4 [Proper Lines](./19_a_pixel_art_editor/)
 
+## Part 3: Node
+
+### Chapter 20: Node.js
+
+-   [x] 20.1 [Search Tool](./20_node.js/)
+-   [x] 20.2 [Directory Creation](./20_node.js/)
+-   [ ] 20.3 A Public Space on the Web
+
 [1]: https://eloquentjavascript.net/
