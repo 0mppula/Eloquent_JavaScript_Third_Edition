@@ -124,4 +124,9 @@ Solutions to exercises from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by
 -   [x] 20.2 [Directory Creation](./20_node.js/directory_creation.js)
 -   [ ] 20.3 A Public Space on the Web
 
+### Chapter 21: Project: Skill-Sharing Website
+
+-   [ ] 21.1 [Disk Persistence](/21_skill-sharing_website/)
+-   [ ] 21.2 [Comment Field Resets](/21_skill-sharing_website/)
+
 [1]: https://eloquentjavascript.net/
