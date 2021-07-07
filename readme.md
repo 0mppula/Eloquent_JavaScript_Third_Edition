@@ -120,8 +120,8 @@ Exercises done by me from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by: 
 
 ### Chapter 20: Node.js
 
--   [x] 20.1 [Search Tool](./20_node.js/)
--   [x] 20.2 [Directory Creation](./20_node.js/)
+-   [x] 20.1 [Search Tool](./20_node.js/search_tool.js/)
+-   [x] 20.2 [Directory Creation](./20_node.js/directory_creation.js)
 -   [ ] 20.3 A Public Space on the Web
 
 [1]: https://eloquentjavascript.net/
