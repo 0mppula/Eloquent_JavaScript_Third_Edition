@@ -126,7 +126,7 @@ Solutions to exercises from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by
 
 ### Chapter 21: Project: Skill-Sharing Website
 
--   [ ] 21.1 [Disk Persistence](/21_skill-sharing_website/)
--   [ ] 21.2 [Comment Field Resets](/21_skill-sharing_website/)
+-   [x] 21.1 [Disk Persistence](/21_skill-sharing_website/)
+-   [x] 21.2 [Comment Field Resets](/21_skill-sharing_website/)
 
 [1]: https://eloquentjavascript.net/
