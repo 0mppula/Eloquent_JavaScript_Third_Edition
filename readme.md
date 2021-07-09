@@ -129,4 +129,8 @@ Solutions to exercises from the ebook "[Eloquent JavaScript, 3rd Edition][1]" by
 -   [x] 21.1 [Disk Persistence](/21_skill-sharing_website/)
 -   [x] 21.2 [Comment Field Resets](/21_skill-sharing_website/)
 
+### Chapter 22: JavaScript and Performance
+
+-   [x] 22.1 [Pathfinding](/22_javascript_and_performance/pathfinding.js)
+
 [1]: https://eloquentjavascript.net/
