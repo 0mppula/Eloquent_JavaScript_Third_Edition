@@ -24,8 +24,6 @@ class GraphNode {
 	}
 }
 
-// The familiar Vec type.
-
 class Vec {
 	constructor(x, y) {
 		this.x = x;
@@ -49,42 +47,6 @@ class Vec {
 // first write code to draw a graph onto a canvas. Since we don't know
 // in advance how big the graph is, the `Scale` object computes a
 // scale and offset so that all nodes fit onto the given canvas.
-
-const nodeSize = 8;
-
-function drawGraph(graph) {
-	let canvas = document.querySelector('canvas');
-	if (!canvas) {
-		canvas = document.body.appendChild(document.createElement('canvas'));
-		canvas.width = canvas.height = 400;
-	}
-	let cx = canvas.getContext('2d');
-
-	cx.clearRect(0, 0, canvas.width, canvas.height);
-	let scale = new Scale(graph, canvas.width, canvas.height);
-
-	// Draw the edges.
-	cx.strokeStyle = 'orange';
-	cx.lineWidth = 3;
-	for (let i = 0; i < graph.length; i++) {
-		let origin = graph[i];
-		for (let target of origin.edges) {
-			if (graph.indexOf(target) <= i) continue;
-			cx.beginPath();
-			cx.moveTo(scale.x(origin.pos.x), scale.y(origin.pos.y));
-			cx.lineTo(scale.x(target.pos.x), scale.y(target.pos.y));
-			cx.stroke();
-		}
-	}
-
-	// Draw the nodes.
-	cx.fillStyle = 'purple';
-	for (let node of graph) {
-		cx.beginPath();
-		cx.arc(scale.x(node.pos.x), scale.y(node.pos.y), nodeSize, 0, 7);
-		cx.fill();
-	}
-}
 
 // The function starts by drawing the edges, so that they appear
 // behind the nodes. Since the nodes on _both_ side of an edge refer
